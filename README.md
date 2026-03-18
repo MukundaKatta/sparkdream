@@ -83,6 +83,3 @@ sparkdream/
 └── package.json
 ```
 
-## License
-
-MIT
